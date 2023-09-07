@@ -1,2 +1,3 @@
 - Paco Guzmán
 - Óscar Santos
+- Gloria Lozada

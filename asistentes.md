@@ -1,2 +1,2 @@
 - Paco Guzmán
-- Óscar Santos
+- Oscar Santos

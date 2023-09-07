@@ -3,3 +3,4 @@
 - Gloria Lozada
 - Felipe Maqueda
 - Pablo Dueñas
+- Manuel Hernpandez
